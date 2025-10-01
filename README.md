@@ -26,7 +26,7 @@ This project demonstrates responsive layouts, product listing, navigation, and b
 
 ## 🖼️ Preview
 ```markdown ```
-![Zudio Store Screenshot](snapshot.png)
+![Zudio Store Screenshot](Snapshot.png)
 🚀 Getting Started
 1️⃣ Clone the Repository
 bash
