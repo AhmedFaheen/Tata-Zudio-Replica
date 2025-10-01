@@ -27,6 +27,17 @@ This project demonstrates responsive layouts, product listing, navigation, and b
 ## 🖼️ Preview
 ```markdown ```
 ![Zudio Store Screenshot](Snapshot.png)
+
+---
+
+## 🌐 Live Demo
+
+Check out the live version of the **Zudio Store Replica** here:  
+
+[🎯 View Live Demo on Vercel](https://tata-zudio-replica-pof0r1eah-ahmedfaheen546-gmailcoms-projects.vercel.app)
+
+---
+
 🚀 Getting Started
 1️⃣ Clone the Repository
 bash
